@@ -1,7 +1,9 @@
 # Api de Livros
 
-## SGDB usado
+## Tecnologias usadas
 
+- Asp.Net Core
+- Entity Framework Core
 - Microsoft Sql Server
 
 ## Sobre essa api
